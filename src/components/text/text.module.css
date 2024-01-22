@@ -1,0 +1,29 @@
+.text{
+    display: flex;
+    flex-direction: column;
+}
+
+.prev{
+    font-size: 1.1rem;
+    width: 90%;
+    height: 20vw;
+    border-radius: 10px;
+    background-color: azure;
+    overflow: auto;
+}
+
+
+.after{
+    width: 90%;
+    font-size: 1.4rem;
+    height: auto;
+    margin-top: 20px;
+    
+    font-size: 18px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    overflow: auto;
+    border-radius: 10px;
+
+}
